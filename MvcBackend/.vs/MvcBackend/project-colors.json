@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cd566b06-f381-497f-abc9-8dd62e63db8f": {
+      "ProjectGuid": "cd566b06-f381-497f-abc9-8dd62e63db8f",
+      "DisplayName": "MvcBackend",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
