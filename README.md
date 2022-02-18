@@ -1,25 +1,5 @@
-# Product/Platform - Task
+# Dashboard for MVC - Backend
 
-This is the repository template for creating new examples. Describe the solved task here.
+This example is an ASP.NET MVc backend application (server) for the DevExpress Web Dashboard. The server handles client data requests and includes backend capabilities such as data access, dashboard storage, and so on.
 
-Put a screenshot that illustrates the result here.
-
-Then, add implementation details (steps, code snippets, and other technical information in a free form), or add a link to an existing document with implementation details. 
-
-## Files to Look At
-
-- link.cs (VB: link.vb)
-- link.js
-- ...
-
-## Documentation
-
-- link
-- link
-- ...
-
-## More Examples
-
-- link
-- link
-- ...
+This application does not have any views. Configure and launch a client application to display data from this server.
